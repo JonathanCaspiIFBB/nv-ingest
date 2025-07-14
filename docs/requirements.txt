@@ -8,3 +8,4 @@ mkdocs-jupyter
 mkdocs-include-dir-to-nav
 mkdocs-literate-nav
 mkdocs-site-urls
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
